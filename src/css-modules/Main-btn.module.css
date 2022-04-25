@@ -1,0 +1,9 @@
+.mainBtn {
+  width: 95px;
+  height: 40px;
+  border-radius: 6px;
+  background-color: #0e1649;
+  color: white;
+  text-align: center;
+  border: 0;
+}

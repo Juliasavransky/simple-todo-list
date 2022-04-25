@@ -1,0 +1,17 @@
+.item {
+  display: flex;
+  align-items: center;
+}
+.checkbox {
+  margin-right: 15px;
+}
+.delete {
+  margin-left: 5px;
+  color: transparent;
+}
+.delete:hover {
+  cursor: pointer;
+  color: #00020b;
+  font-size: large;
+  font-weight: bold;
+}
